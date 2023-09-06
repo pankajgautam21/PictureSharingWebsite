@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PictureSharingWebsite/static/css/main.6fa580eb.css",
+    "main.js": "/PictureSharingWebsite/static/js/main.d99821e7.js",
+    "index.html": "/PictureSharingWebsite/index.html",
+    "main.6fa580eb.css.map": "/PictureSharingWebsite/static/css/main.6fa580eb.css.map",
+    "main.d99821e7.js.map": "/PictureSharingWebsite/static/js/main.d99821e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa580eb.css",
+    "static/js/main.d99821e7.js"
+  ]
+}
